@@ -1,3 +1,5 @@
 # Metagame Tool Repository Link
 
-Include a link to the external GitHub repository containing the full tool source code.
+MTG-Metagame-Analyzer repository:
+
+https://github.com/Warlord1986pl/MTG-Metagame-Analyzer

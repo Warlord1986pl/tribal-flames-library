@@ -1,3 +1,3 @@
 # Metagame Tool Usage Guide
 
-Provide step-by-step instructions on how to use the metagame tool effectively.
+Use the analyzer to process league or event results and produce a weekly or range-based summary. The detailed workflow and commands live in the tool repository.

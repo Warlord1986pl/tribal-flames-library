@@ -1,3 +1,3 @@
 # Metagame Tool Methodology
 
-Explain the analysis methodology, assumptions, and how results are calculated or interpreted.
+The analyzer aggregates archetype frequency over a chosen time range and compares changes between weeks. It assumes consistent archetype naming across datasets.
