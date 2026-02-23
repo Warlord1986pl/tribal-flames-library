@@ -7,7 +7,7 @@ Record: 1-4
 
 Deck Changes vs Previous Build:
 + SOS
-
+- Winternight Stories (WNS)
 Meta Expectation (opcjonalnie):
 Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main, w szczegolnosci chodziło mi o UB Flash Control, która atakuja manabase. 
 
@@ -82,25 +82,25 @@ Game Note (max 1–2 zdania):
 -miałem STS na ręce którym powinienm skatrowac Flicker whisp
 
 Impact Card (jeśli wyraźna):
-- po stronei przeciwnika Flicker Whisp + Which enchanter
+- po stronie przeciwnika Flicker Whisp + Which enchanter
 
 ---
 
 ## Game 2
-On: Play / Draw
+On: Play 
 
 Opening:
 [ ]
 
 KEEP / MULL → ( )
 
-Result: W / L
+Result:  L
 
 Game Note:
--
+- Przeciwnik zniszczył moje LOTG za pomoca interreakcji Flickerwhisp + bounce landa który jednoczescie jest witch enchanter a ta niszczy enchatmenty 
 
 Impact Card:
--
+- po stronie przeciwnika Flicker Whisp + Which enchanter
 
 ---
 
