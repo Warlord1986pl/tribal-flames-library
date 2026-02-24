@@ -9,7 +9,7 @@ Deck Changes vs Previous Build:
 + SOS
 - Winternight Stories (WNS)
 Meta Expectation (opcjonalnie):
-Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main, w szczegolnosci chodziło mi o UB Flash Control, która atakuja manabase. 
+Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main, w szczegolnosci chodziło mi o UB Flash Control, która atakuja manabase a ma tez znaczenie dla czerwonych decków oraz jako protekcja mnie jako gracza oraz moich pernamentów 
 
 --------------------------------------------------
 
@@ -50,23 +50,23 @@ Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main
 4 Arid Mesa (F)
 1 Mountain (M)
 
-## Sideboard
-1 Teferi, Time Raveler (T3F)
-1 Wear // Tear (WT)
-2 Damping Sphere (DS)
-3 Mystical Dispute (MD)
-1 Thraben Charm (TC)
-3 Consign to Memory (CTM)
-2 Wrath of the Skies (WOTS)
-1 Vexing Bauble (VB)
-1 Nihil Spellbomb (NS)
+## Sideboard- opisane po co głownie sa te karty ale do czesci MU moga miec inne ciekawe zastosowanie wtedy dodatkowy opis przy konkretnym meczu
+1 Teferi, Time Raveler (T3F) Stops Instant speed spels, soft remuval, card advatage
+1 Wear // Tear (WT) Artifact i enchatment hate
+2 Damping Sphere (DS) Eldrazi hate, ogranicza ilosc speli które mozna zagrac w rundzie, wyłacza tron landy z gry
+3 Mystical Dispute (MD) tania kontra na niebieskie spele
+1 Thraben Charm (TC) gy hate, enchatment hate, okazjonalnie remuval
+3 Consign to Memory (CTM) contra na bezkolorowe spele (Eldrazi, artefakty), moze kontrowac triger ability np. etb czy cast trigery 
+2 Wrath of the Skies (WOTS) board wipe
+1 Vexing Bauble (VB) contruje darmowe spele
+1 Nihil Spellbomb (NS) gy hate
 
-## Moxfield Link
+## Moxfield Link- mozesz to dodać ten link do opisów lig, postów na redicie itp
 
 https://moxfield.com/decks/32ETxghIg0i1zd5tkDqw2g
 --------------------------------------------------
 
-# MATCH 1 vs UW Blink
+# MATCH 1 vs UW Blink 0-2
 
 ## Game 1
 On: Play 
@@ -82,7 +82,7 @@ Hand Type:
 
 Result: L
 
-Tags: Mana Screw
+Tags: Mana Screw, Execution mistake
 
 Decision: One land keep
 
@@ -92,16 +92,18 @@ Mistake: Nie skontrowałem Flickerwhisp STS
 
 Opponent Key Interaction: Flickerwhisp + Witch Enchanter zabija LOTG 
 
+Card Notes:  
+
 Sideboard
 
 In: 
-3 MD
-1 VD
-1 T3F
+3 MD tania kontra na niebieskei spele
+1 VB contruje darmowe spele 
+1 T3F nie pozwala zagrywac speli na instat speed przeciwnikowi
 
 Out:
-3 RAG
-2 STD
+3 RAG to mogł byc bład, bo kazda jego kreatura wymienia sie z RAG robi mane i moze byc jako wyciagacz remuvalu na powazniejsze zagrozenia
+2 STD brak dobrych celów 
 ---
 
 ## Game 2
@@ -112,9 +114,7 @@ Opening:
 
 KEEP 
 
-Hand Type:
-
-(three land balanced)
+Hand Type: low thread, good mana
 
 Result:  L
 
@@ -128,13 +128,54 @@ Mistake: Niepotrzebnie zabiłem Phelia end of turn za pomoca B majac STS i SOS n
 
 Opponent Key Interaction: Flickerwhisp + Witch Enchanter zabiaja S w T3
 
+
+Card Notes:  
+
+Sideboard
+
+In: 
+
+
+Out:
+
+
 ---
 
-## Game 3 (jeśli był)
-...
+## Game 3 none
+
+On: 
+
+Opening:
 
 
-# MATCH 2 vs BG Yawgmoth
+KEEP 
+
+Hand Type: 
+
+Result:  
+
+Tags: 
+
+Decision:
+
+Draw Pattern: 
+
+Mistake: 
+
+Opponent 
+
+
+Card Notes: 
+
+
+Sideboard
+
+In: 
+
+
+Out:
+
+# MATCH 2 vs BG Yawgmoth 1-2
 _______
 ## Game 1
 On: Draw
@@ -144,7 +185,7 @@ Opening:
 
 KEEP
 
-Hand Type:
+Hand Type: slow hand
 
 Result: L
 
@@ -158,20 +199,22 @@ Mistake: brak
 
 Opponent Key Interaction:  
 
+Card Notes: walka mimo jego high roll wyrownana, niestety dobierał lepiej
+
 Sideboard
 
 In: 
-2 WOTS
-1 TC
-1 NS
-1 WT
-3 CTM
+2 WOTS board wipe
+1 TC gy hate
+1 NS gy hate
+1 WT artifact/enchtment hate
+3 CTM artifact ETB Trigger hate
 
 Out:
-3 RAG
-2 PH
-1 T3F
-2 LOTG
+3 RAG ma tanich blokerów co wracaja z gy
+2 PH moze ich wyciagac z gy 
+1 T3F niewiele gra na instant speed
+2 LOTG ma enchatment hate, ale warto przemyslec bo jednak combo z draco jest w tym mu bardzo wazne
 ---
 
 ## Game 2
@@ -182,11 +225,9 @@ Opening:
 
 KEEP 
 
-Hand Type:
+Hand Type: SB hate, LOTG mana fix
 
-(three land balanced)
-
-Result:  L
+Result:  W
 
 Tags: 
 
@@ -197,6 +238,16 @@ Draw Pattern: Normal
 Mistake: 
 
 Opponent Key Interaction: Discard mojego WOTS i jednego K za pomoca Thoughtseize
+
+Card Notes:  
+
+Sideboard
+
+In: 
+
+
+Out:
+
 
 ## Game 3
 
@@ -219,14 +270,23 @@ Decision:
 
 Draw Pattern: 6 tur z rzędu interaction zamiast threatów
 
-Card Notes: Formidable Speaker – bardzo dobry przy braku zagrożeń, pozwolił wyszukać threat i ustabilizować presję
 
 Mistake: 
 
 Opponent Key Interaction: Discard mojego K za pomoca Thoughtseize
 
+Card Notes: Formidable Speaker – bardzo dobry przy braku zagrożeń, pozwolił wyszukać threat i ustabilizować presję
 
-# MATCH 3 vs UR Prowess 
+Sideboard
+
+In: 
+
+
+Out:
+
+
+
+# MATCH 3 vs UR Prowess 1-2
 
 ## Game 1
 On: Draw
@@ -267,13 +327,16 @@ Card Notes:
 Sideboard
 
 In: 
-1 SB
+1 SB 
 1 WT
 2 MD
 
+Rozwazyc dodavanie VB jako ze kontruje darmowe spelle, nie blokuje cast triger prowess ale pozwala zmniejszyc CA
+
 Out:
-3 RAG
-1 T3F
+3 RAG gra lava darty co zabija ragavana za jeden 
+1 T3F za wolny na ten mu
+
 
 
 ---
@@ -307,16 +370,16 @@ Mistake:
 
 Opponent Key Interaction: 
 
-Card Notes: Phlage wygrał gre 
+Card Notes: Phlage wygrał gre pozwolił odzyskac life i pozby sie zagrozen, dobra zagrywka był 3 dmg trigger w Murktide Regenta co dało mozliwosc korzystnej dla mnei wymiany bo ja martwego PH moglem zagrac znów z GY
 
 Sideboard
 
 In: 
-1 TC
+1 TC jako gy hate
 
 
 Out:
-1 SOS
+1 SOS to mogł byc bład bo ta karta daje bezkarna mozliwosc blokowania czerwonych kreatur 
 
 ## Game 3
 
@@ -335,16 +398,26 @@ Tags:
 
 Decision:
 
-Draw Pattern: 
+Draw Pattern: Normal
+
 Card Notes: 
 
 Mistake: powinienem boltem zabic Dragon's Rage Channeler a nie Monastery Swiftspear
 
-Opponent Key Interaction:  Murktide Regenet na którego nei miałem odpowiedzi 
+Opponent Key Interaction:  Murktide Regenet na którego nie miałem odpowiedzi 
 
 Card Notes: 
 
-# MATCH 4 vs UB Mill
+Sideboard
+
+In: 
+
+
+
+Out:
+
+
+# MATCH 4 vs UB Mill 1-2
 
 ## Game 1
 On: Play
@@ -353,17 +426,6 @@ Opening:[SV T3F F B F FS F]
 
 Keep
 
-Hand Type: Low thread
-
-Second Hand: 
-
-Keep/Mulligan
-
-Hand Type: 
-
-Third Hand: 
-
-Keep/Mulligan
 
 Hand Type: 
 
@@ -384,13 +446,13 @@ Card Notes: FS pozwolił isc po Kavu i zagrac go z hastem dzieki temu był letha
 Sideboard
 
 In: 
-3 MD
+3 MD kontruje 90% decku
 
 
 Out:
-1 RAG
-1 T3F
-1 SOS
+1 RAG ma tanich blokerów 0/3
+1 T3F to bład, powinienem dodac jednego, to mnie ocharnia przed Archive Trap bo nie zagra tego na instancie
+1 SOS tutaj akurat nic nie robi
 
 
 ---
@@ -404,13 +466,8 @@ Keep
 
 Hand Type: Good
 
-Second Hand:
 
-Keep/Mulligan
-
-Hand Type: 
-
-Result: W
+Result: L
 
 Tags: 
 
@@ -439,7 +496,6 @@ On: Draw
 
 Opening: [F F STS STS F TF K]
 
-
 Keep
 
 Hand Type: low threat
@@ -450,16 +506,25 @@ Tags:
 
 Decision:
 
-Draw Pattern: 
+Draw Pattern:
+
 Card Notes: 
 
 Mistake: p
 
-Opponent Key Interaction:  Dwa trapy spowodowały ze mnie przewinał w 4 tury
+Opponent Key Interaction: Dwa trapy spowodowały ze mnie przewinał w 4 tury, zagrał je w T2 wiec nawet T3F by nie pomogł 
 
 Card Notes: 
 
-# MATCH 5 vs Soul Sisters
+Sideboard
+
+In: 
+
+
+
+Out:
+
+# MATCH 5 vs Soul Sisters 2-1
 
 ## Game 1
 On: Draw
@@ -469,12 +534,6 @@ Opening: [F T GS F PTE FS STS]
 Mulligan
 
 Hand Type: Low Threads
-
-Second Hand:
-
-Keep/Mulligan
-
-Hand Type: 
 
 Result: L 
 
@@ -493,12 +552,12 @@ Card Notes: Nie znałem tej talii i nie wiedziałem co warto kontrowac stad op z
 Sideboard
 
 In: 
-2 WOTS
-1 T3F
+2 WOTS idealnei bo op gra szeroko
+1 T3F pozwala na baunce duzej kreatury
 
 
 Out:
-3 RAG
+3 RAG duzo małych tanich kreatur oraz Ocelot Pride 
 
 
 
@@ -518,7 +577,7 @@ Keep/Mulligan
 
 Hand Type: Good
 
-Result:  
+Result: W
 
 Tags: 
 
@@ -564,7 +623,7 @@ Mistake:
 
 Opponent Key Interaction: 
 
-Card Notes: Rest in Peace zagrane przez przeciwnika spowodowało, ze jego Ajani nie miał triggera z dobranego WOTS co jest warte odnotowania, bo znie znałem tego wczesniej. 
+Card Notes: Rest in Peace zagrane przez przeciwnika spowodowało, ze jego Ajani nie miał triggera z zagranego WOTS co jest warte odnotowania, bo znie znałem tego wczesniej. 
 
 Sideboard
 
@@ -594,10 +653,10 @@ Underperform:
 Key Pattern I Noticed:
 - 
 
-Mistakes I Made: Dalem sie dwa razy z z lapac na sztuczke przez esper blink, dwa razy zmarnowalem bolta w grzez z prowesem, controwałem nie te kreatury które maja znaczenie 
+Mistakes I Made: Dalem sie dwa razy z z lapac na sztuczke przez esper blink, dwa razy zmarnowalem bolta w grze z prowesem, controwałem tez nie te kreatury które maja znaczenie. Muszę zastanawiać się bardziej nad danymi zagraniami i jesli jakies przyjdzie mi szybko do głowy to pomysleć czy to na pewno jest dobre? 
 -
 
-Would I Change Something:
+Would I Change Something: Może troche bardziej agresywnie muliganował ręce z niskim threat count
 -
 
 --------------------------------------------------
