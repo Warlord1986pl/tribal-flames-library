@@ -661,7 +661,7 @@ Would I Change Something: Może troche bardziej agresywnie muliganował ręce z 
 
 --------------------------------------------------
 
-# LIGA – QUICK DATA
+# LIGA – QUICK DATA Uzupełnia Ai
 
 One land keeps:
 Flood games:
