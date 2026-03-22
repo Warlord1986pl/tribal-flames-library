@@ -231,3 +231,4 @@ Execution mistakes: 3
 ---
 
 *Plik aktualizowany ręcznie po każdej lidze. Analiza zbiorcza co ~10 lig lub na żądanie.*
+## 04-03-2026

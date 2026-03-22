@@ -5,12 +5,8 @@ Format: Modern
 Date: 04.03.2026
 Record: 
 
-Deck Changes vs Previous Build:
-+ SOS
-- Winternight Stories (WNS)
-Meta Expectation (opcjonalnie):
-Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main, w szczegolnosci chodziło mi o UB Flash Control, która atakuja manabase a ma tez znaczenie dla czerwonych decków oraz jako protekcja mnie jako gracza oraz moich pernamentów 
-
+Classic DKT Zoo Build
+To klasyczny, sprawdzony i wygrywajacy ligi i challange build Zoo ograny przez swietnego gracza o nicku Playboy
 --------------------------------------------------
 
 # DECKLIST SNAPSHOT
@@ -55,6 +51,7 @@ Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main
 2 Wrath of the Skies (WOTS) board wipe
 2 Obsidian Charmaw (OBC) swietny hate na eldrazi tron
 1 Nihil Spellbomb (NS) gy hate
+1 Celestial Purge (CP) exile czarnych i czerwonych kreatur, swietne w wielu MU
 
 ## Moxfield Link- mozesz to dodać ten link do opisów lig, postów na redicie itp
 https://moxfield.com/decks/68Ej4YDTh0OzPwwluhVWwA

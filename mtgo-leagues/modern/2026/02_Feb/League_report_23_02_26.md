@@ -1,9 +1,9 @@
 # LEAGUE REPORT
 
-BUILD ID: Zoo_Formidable_V1.3
+BUILD ID: DKT_Zoo_v1
 Format: Modern
-Date: 23.02.2026
-Record: 1-4
+Date: 04.03.2026
+Record: 
 
 Deck Changes vs Previous Build:
 + SOS
@@ -63,7 +63,7 @@ Spodziewałem sie deków atakujacych moj manabase stad dodałem jedn SOS do main
 
 ## Moxfield Link- mozesz to dodać ten link do opisów lig, postów na redicie itp
 
-https://moxfield.com/decks/32ETxghIg0i1zd5tkDqw2g
+
 --------------------------------------------------
 
 # MATCH 1 vs UW Blink 0-2
