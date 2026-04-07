@@ -232,3 +232,159 @@ Execution mistakes: 3
 
 *Plik aktualizowany ręcznie po każdej lidze. Analiza zbiorcza co ~10 lig lub na żądanie.*
 ## 04-03-2026
+LEAGUE SUMMARY
+Build ID: DKT_Zoo_v1.1_TF
+Format: Modern
+Data ligi: 11.03.2026
+Final record: 1-4 (mecze) / 6-9 (gry)
+Match winrate: 20%
+Game winrate: 40%
+
+Tag Frequency
+Mana screw: 1 (M5G3)
+Flood: 1 (M4G3 opening hand)
+Execution mistake: 3
+Deck issue: 1 (brak Stubborn Denial w MU wymagajacych kontr)
+Variance heavy: 2 (M3G3 Harbinger topdeck; M5G1 14 DMG w T4)
+Sideboard Underperformed: 1 (M2 — brak dedykowanego planu na Ensnaring Bridge)
+Sideboard Overperformed: 2 (M1G2 Wear//Tear na Leyline Binding; M1G3 Thraben Charm na Leyline of the Guildpact)
+Clean win: 3 (M1G2, M1G3, M4G1)
+Opponent high roll: 2 (M3G3 Harbinger topdeck; M5G1 14 DMG w T4)
+
+Draw Patterns
+Threat drought: 1 (M4G3 trzecia reka, mull do 5)
+Interaction heavy draw: 0
+Late game flood: 1 (M4G3 opening hand)
+Ideal curve: 1 (M5G2)
+Normal draw: 10
+
+Card Performance Notes
+Overperformed:
+Phlage, Titan of Fire's Fury: kluczowy w prawie kazdym meczu; odzysk zycia w M5G2 zdecydowal o wygranej; trigger jako target CTM w M1G2 zamknal gre.
+Tribal Flames: czysty T4 kill w M4G1 z Territorial Kavu — plan zadziala dokladnie jako zamierzony.
+Consign to Memory: kontrowanie triggera Phlage (M1G2) i triggera Leyline Binding (M1G3) — direct impact na wyniki gier.
+Thraben Charm: zabicie Leyline of the Guildpact przeciwnika w M1G3 odcielo mane i wygralo gre.
+
+Underperformed:
+Doorkeeper Thrull: neutralny lub przeszkadzajacy w mirrorze (pozwala opponentowi na scam wlasnego Phlage); brak wartosci w MU bez ETB-heavy kreatur.
+Ragavan, Nimble Pilferer: neutralizowany przez Orkish Bowmasters (M3) i mirrored Ragavany (M1, M4); slaby do bocznikowania w interactive matchupach.
+
+Meta-dependent:
+Celestial Purge: przydatny vs UB Kaito i Burn, neutralny w mirrorze i Lantern.
+Damping Sphere: poprawny vs Burn, ograniczone zastosowanie w pozostalych MU tej ligi.
+Obsidian Charmaw: nie zagrany — brak Eldrazi Tron w puli przeciwnikow.
+
+Sideboard Impact per Matchup
+M1 vs Zoo: Overperformed. WT na BI, TC na LOTG, Nihil Spellbomb na PH mialy bezposredni impact na G2 i G3.
+M2 vs Lantern Control: Underperformed. Brak odpowiedzi na Ensnaring Bridge przed G2; WoTS prawidlowy pick ale za wolno.
+M3 vs UB Kaito: Neutralny. MD, WOTS, CP poprawne wybory, wynik zdecydowany przez variance (Harbinger topdeck).
+M4 vs Zoo: Neutralny. Identyczny plan jak M1, wynik zdominowany przez draw quality, nie sideboard.
+M5 vs Burn: Neutralny. DS i CP poprawne, ale mana screw w G3 uniemozliwil ich efektywne uzycie.
+
+Quick Data
+One land keeps: 2 (M1G3 — wygrany; M4G3 mull do 5 — przegrany)
+Flood games: 1 (M4G3)
+Mana screw games: 1 (M5G3)
+Execution mistakes: 3
+1. M2G3: Consign to Memory zagrane na trigger sagi zamiast przetrzymanie na Ensnaring Bridge — blad wynikajacy z nieznajomosci MU.
+2. M3G1: keep reki bez interakcji przeciwko Tamiyo + Orkish Bowmasters — blad oceny reki.
+3. M5G1: Goblin Guide zremowany natychmiast zamiast na triggerze ataku w T2 — suboptymalne uzycie removalu.
+
+Meta Observations
+DKT_Zoo_v1.1_TF to eksperyment z wiekszym damage output kosztem kontr. W meczach z prosta agresja (Zoo mirror, Burn G2) plan dzialal. W meczach z control lub tempo-control (Lantern, UB Kaito) brak Stubborn Denial byl strukturalnym problemem. Wynik 1-4 odzwierciedla zarowno wariancje (Harbinger topdeck, mana screw, M5G1 opponent high roll) jak i ograniczenia buildu bez kontr. Nie jest to meta call dla obecnego Modern, ale Tribal Flames jako szybki finisher ma realny potencjal w odpowiednim metagame. Kolejny build (v1.2?) z Strix Serenade bedzie istotnym testem czy mozna polaczyc burn plan z ochrona kreatur.
+## 18-03-2026
+LEAGUE SUMMARY
+Build ID: DKT_Zoo_v1.2_TF
+Format: Modern
+Data ligi: 18–22.03.2026
+Final record: 3–2
+Match winrate: 60% (3/5)
+Game winrate: 50% (7W / 7L — 14 gier łącznie)
+
+Tag Frequency
+Mana screw: 1
+Flood: 2
+Execution mistake: 2 (M3G2: brak usunięcia Vinelashera TC; M3 SB: DS zamiast Ragavana na Burna)
+Deck issue: 1 (M3: brak szybkich odpowiedzi na burn — strukturalna słabość bez Stubborn Denial)
+Variance heavy: 3 (M1G1: T3 kill; M3G1: T3 kill; M5G3: double Emissary)
+Sideboard Underperformed: 1 (M3: DS na Burn — błędny wybór)
+Sideboard Overperformed: 3 (M4: OBC + DS na Tron; M5G2: WOTS czyści stół)
+Clean win: 3 (M1G2, M1G3, M4G2)
+Opponent high roll: 3 (M1G1, M3G1, M5G1)
+
+Draw Patterns
+Threat drought: 1 (M2G1: brak odpowiedniej ilości zagrożeń przeciwko Tamiyou)
+Interaction heavy draw: 1 (M1G3: dobre removal i odpowiedzi bez kombo)
+Late game flood: 0
+Ideal curve: 2 (M2G2, M4G2)
+Normal draw: 10 (pozostałe gry)
+
+Card Performance Notes
+Overperformed
+•	Obsidian Charmaw (OBC) — M4G3: odpowiedź na Ugin's Labyrinth + zagrożenie z first strike przy Scionie. Rozstrzygnął grę.
+•	Damping Sphere (DS) — M4G2: zatrzymał ramp Trona, dał czas na domknięcie topdeckiem.
+## 29-03-2026
+LEAGUE SUMMARY
+Build ID: MoonShadow_Zoo_v_1.0
+Format: Modern
+Data ligi: 29.03.2026
+Final record: 2-3 (mecze) / 5-7 (gry, bez niekompletnych G3 w M1, M3, M5)
+Match winrate: 40%
+Game winrate: ~42% (dane niepelne — brak wynikow G3 w M1, M3, M5)
+
+Tag Frequency
+Mana screw: 1 (M3G2 — brak Mountain do zabicia Archona)
+Flood: 1 (M1G2 — same landy w pierwszej rece)
+Execution mistake: 4
+Deck issue: 1 (brak CTM w mainie — brak odpowiedzi na triggery Tron w G1)
+Variance heavy: 1 (M1 — Tron poskładany za szybko)
+Sideboard Underperformed: 1 (M4G1 — WT w Burn MU prawdopodobnie bledny pick)
+Sideboard Overperformed: 2 (CTM vs Tron i Storm; WOTS vs Goblins)
+Clean win: 2 (M4G2, M5G2)
+Opponent high roll: 1 (M1 — szybki Tron + Dissembler T2)
+
+Draw Patterns
+Threat drought: 1 (M1G2 — mull do 5, brak zagrozen)
+Interaction heavy draw: 0
+Late game flood: 1 (M1G2)
+Ideal curve: 2 (M4G2, M5G2)
+Normal draw: 6
+
+Card Performance Notes
+Overperformed:
+Inti, Seneschal of the Sun: konsekwentny enabler dla Moonshadow; card selection w dluzszych grach; aktywacja bez dodatkowych kart.
+Moonshadow: silny jako T1 play z Inti; lifelink przez Scion of Draco w Burn MU byl bezposrednia przyczyna wygranej G2 i G3 w M4.
+Consign to Memory (SB): krytyczny vs Tron triggery i Storm cost-reducery; wyjasnia dlaczego brak go w mainie jest problemem.
+Wrath of the Skies (SB): poprawny odpowiedz na szerokie boardy Goblins.
+
+Underperformed:
+Moonshadow jako late draw: karta z 3+ licznikami w T4-T5 jest zbyt wolna; wartosc silnie zalezna od T1-T2 wejscia z aktywnym Inti.
+Shadow Prophecy: jedna kopia — zbyt malo danych by ocenic, ale obecnosc jako x1 sugeruje testowanie minimalne.
+Wear//Tear (SB w M4): prawdopodobny blad sidowania — Burn nie gra artefaktow jako primary win condition.
+
+Meta-dependent:
+Damping Sphere: prawidlowy vs Tron i Storm; neutralny w pozostalych MU tej ligi.
+Nihil Spellbomb: kluczowy vs Reanimator Zoo; neutralny wszedzie indziej.
+Celestial Purge: szerokie zastosowanie — Burn, Reanimator Zoo, potencjalnie Storm (Ral).
+
+Sideboard Impact per Matchup
+M1 vs Eldrazi Tron: Overperformed. DS i CTM poprawne; brak tych kart w mainie kosztuje G1.
+M2 vs Storm: Neutralny. CTM i DS poprawne; G1 stracone przez blad interfejsu, nie sideboard.
+M3 vs Reanimator Zoo: Neutralny. Poprawny plan (NS, MD, CP, WT), wynik zdeterminowany przez bledy wykonania i brak doswiadczenia w MU.
+M4 vs Burn: Underperformed czesciowo. WT bledny pick; MD i CP poprawne.
+M5 vs Goblins: Overperformed. WOTS i CP mialy bezposredni impact na stabilizacje boardu.
+
+Quick Data
+One land keeps: 2 (M1G3 — brak danych; M2G2 — keep one-landera, wygrana)
+Flood games: 1 (M1G2)
+Mana screw games: 1 (M3G2 — brak Mountain)
+Execution mistakes: 4
+1. M1G2: misclick na Surveil landzie — nie wyrzucono Triomy do GY, Moonshadow stracil szanse na 1-2 liczniki.
+2. M2G1: yield to all aktywny podczas flipu Rala — brak okna na odpowiedz, CP w rece, Ral zaaktywowal sie bezkarnie.
+3. M3G2: zagrany zly land zamiast Mountain — brak czerwonej many do zabicia Archona of Cruelty po wejsciu.
+4. M2G3: prawdopodobnie CP powinno pojsc na Talent of the Telepath, BI przetrzymac na Medallion — kolejnosc priorytetow.
+
+Meta Observations
+MoonShadow_Zoo_v_1.0 to eksperyment z nowym silnikiem, nie meta call. Moonshadow ma realny potencjal jako T1 zagrozenie z aktywnym Inti — szybszy clock niz DKT builds w poprzednich ligach. Slabosci: late draw Moonshadow jest bezuzyteczny, brak CTM w mainie pozostawia G1 bez odpowiedzi na triggery, mana baza (Blood Crypt) dodaje czarny kolor kosztem konsystencji. Wynik 2-3 odzwierciedla pierwszy run nowego buildu z bledami wykonania ktore beda sie zmniejszac z doswiadczeniem. Potencjal jest — szczegolnie wariant z wiekszym iloscia discard outletow moze byc silniejszy.
+
+ 
